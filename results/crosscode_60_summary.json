@@ -1,0 +1,11 @@
+{
+  "n": 60,
+  "crossing_class_matches": 60,
+  "field_rmse_p95_K": 0.00845121694728732,
+  "Tmax_abs_p95_K": 0.015042354690939418,
+  "Tmean_abs_p95_K": 0.01277271206528212,
+  "spread_abs_p95_K": 0.00855989329791953,
+  "Tout_abs_p95_K": 0.00481947023700684,
+  "t40_abs_p95_s": 1.0248574756497295,
+  "all_p95_within_limits": true
+}
