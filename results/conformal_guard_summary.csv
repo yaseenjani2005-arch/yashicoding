@@ -1,0 +1,4 @@
+subset,n,fraction,field_rmse_K,peak_mae_K,peak_max_K,crossing_mae_s,crossing_max_s,missed_crossings,false_crossings,miss_upper_95,false_upper_95,peak_interval_coverage_95,t40_interval_coverage_95
+all_base_predictions,3600,1.0,0.108839,0.105859,0.865582,14.634666,443.674558,140,37,0.072244,0.035097,0.997778,0.891775
+base_guard_accepted,1769,0.491389,0.103959,0.104834,0.753293,4.055067,165.687375,0,0,0.003398,0.003364,0.997739,0.978409
+base_plus_conformal_accepted,1422,0.395,0.099343,0.097408,0.753293,4.264280,165.687375,0,0,0.004409,0.004018,0.997187,0.976401
