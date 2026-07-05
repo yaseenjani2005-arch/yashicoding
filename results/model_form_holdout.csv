@@ -1,0 +1,7 @@
+metric,value
+selected_variant,full_perimeter_pressure_network_UWF
+development_score,1.323995457115434
+holdout_Re200_history_MAE_K,0.39279975891113245
+holdout_Re500_Tmax_error_K,0.31292356177984004
+holdout_mid_family_MAE_K,0.49109782213099845
+holdout_extreme_geometry_MAE_K,5.441474381752073
