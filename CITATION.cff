@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Verification-First Reduced-Model Screening of a Liquid-Cooled Battery Cold Plate"
+message: "Please cite the associated manuscript and archived release."
+type: software
+authors:
+  - family-names: Afridi
+    given-names: Yaseen
+repository-code: "https://github.com/yaseenjani2005-arch/yashicoding"
+date-released: 2026-07-05
+version: "0.9-computational-evidence"
