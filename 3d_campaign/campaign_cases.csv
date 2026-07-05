@@ -1,0 +1,11 @@
+case_id,purpose,geometry,channel_count,Re,branch_height_m,manifold_width_ratio,plate_thickness_m,inlet_temperature_C,status
+D6_Re100,validation,D6,8,100,0.001,1.0,0.003,25,NOT_EXECUTED
+D6_Re200,validation,D6,8,200,0.001,1.0,0.003,25,NOT_EXECUTED
+D6_Re300,validation,D6,8,300,0.001,1.0,0.003,25,NOT_EXECUTED
+D6_Re500,validation,D6,8,500,0.001,1.0,0.003,25,NOT_EXECUTED
+D1_Re500,geometry_transfer,D1,3,500,0.001,1.0,0.003,25,NOT_EXECUTED
+D7_Re500,geometry_transfer,D7,9,500,0.001,1.0,0.003,25,NOT_EXECUTED
+D0051_high_cooling,engineering_design,D0051,7,476.105798,0.000824,1.076662,0.002983,20.608610,NOT_EXECUTED
+D0308_balanced,engineering_design,D0308,6,304.790646,0.000822,1.183649,0.002859,20.734869,NOT_EXECUTED
+D0286_low_power,engineering_design,D0286,4,102.355033,0.001122,0.802001,0.002883,29.928367,NOT_EXECUTED
+D0152_near_boundary,engineering_design,D0152,7,114.236023,0.000887,0.846578,0.003142,22.310723,NOT_EXECUTED
